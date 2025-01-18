@@ -4,7 +4,7 @@ const formulario = document.querySelector("form")
 
 //cotação de moedas
 const USD = 6.04
-const EUR = 6.34
+const EUR = 6.33
 const GBP = 7.37
 
 const footer = document.querySelector("main footer")
